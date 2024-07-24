@@ -1,4 +1,6 @@
-
+<div align='center'>
+  <img src='images/jaen.png' alt='Banner' />
+</div>
 <h1 align='center'>Hola! 👋 Soy Ana Pastor Roncero</h1>
 <div align='center'>
   <samp>
