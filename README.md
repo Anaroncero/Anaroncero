@@ -1,5 +1,5 @@
 
-<h1>Hola! 👋 Soy Ana Pastor Roncero</h1>
+<h1 align='center'>Hola! 👋 Soy Ana Pastor Roncero</h1>
 <div align='center'>
   <samp>
     <a href='https://personal-web-kohl.vercel.app/'>website</a> ☆
